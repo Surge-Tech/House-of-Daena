@@ -1,5 +1,6 @@
 ### Description
 ![[Anzu.png]]
+
 Lives in the [[House of Arcavios]]
 Half-Satyr
 ### Level
