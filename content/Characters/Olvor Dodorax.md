@@ -1,4 +1,4 @@
-# Description
+### Description
 President of [[Kyokuse Institute for the Magically Inclined]].
 ![[Olvor Dodorax.jpg]]
 # Level

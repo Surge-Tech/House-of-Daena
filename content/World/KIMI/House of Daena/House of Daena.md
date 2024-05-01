@@ -9,5 +9,5 @@ The House of Daena has lots of secrets, including but not limited to:
 This year the HOD hosts four students
 [[Ellis Parker]]
 [[Monte Drakonshar]]
-[[Reynard]]
+[[forgotten]]
 [[Yuki Eradrey]]

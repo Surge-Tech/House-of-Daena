@@ -8,7 +8,7 @@
 * [[Monte Drakonshar]]
 * [[Ellis Parker]]
 * [[Yuki Eradrey]]
-* [[Reynard]]
+* [[forgotten]]
 
 ROLL 20 ENCOUNTER
 

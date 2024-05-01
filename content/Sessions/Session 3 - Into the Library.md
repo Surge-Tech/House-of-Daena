@@ -1,6 +1,6 @@
 ### Characters
 * [[Campus Guide - 666666]]
-* [[Alvin]]
+* [[ALVIN]]
 ### Party
 * [[Monte Drakonshar]]
 * [[Ellis Parker]]

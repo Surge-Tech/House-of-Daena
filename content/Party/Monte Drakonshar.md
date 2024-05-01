@@ -1,13 +1,18 @@
 
 ### Description
 ###### Pronouns: he/him
-Human Wizard, young man
+Human Wizard, young man.
+Wears glasses now, sometimes.
 Lives in the [[House of Daena]]
 ![[Monte.png]]
 ##### Familiar
 Two-Headed [[Crow]] named Corvus and Fey.
-### Level
-Same as party
+
+### Study Points: 5
+
+### Levels
+Wizard:
+Artificer:
 ### Personal Quests
 * Prove himself to his family and friends
 * Become a great wizard

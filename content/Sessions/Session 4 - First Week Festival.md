@@ -37,7 +37,7 @@ The party sees that the line for the magic maze is long so Yuki holds their spot
 ## Jewelry and romance
 Monte and Ellis move to the Jewelry booth, Monte is looking for something for Yuki as a thanks for holding their place in line and buys her a Phoenix feather necklace. The vendor, Elara can't tell that it is magic (a real phoenix feather) so she sells it for 1.5 gold. 
 
-Ellis feels a small tap on her shoulder and turns to see [[Anzu Lonelade]]! Monte flirts and Anzu shows him the small matching skull necklace she wants to buy but gets nervous when asked who the other half is for. Outside of the booth Monte and Ellis run into Bee and Demetrius. They learn that Bee, Demetrius, and Anzu live together in the [[World/KIMI/House of Daena/House of Arcavios|House of Arcavios]]. The HoA is on their way to the maze and Ellis wants to join but they realize that the maze groups are limited to 4 people and a minimum of 3. They all go to the maze.
+Ellis feels a small tap on her shoulder and turns to see [[Anzu Lonelade]]! Monte flirts and Anzu shows him the small matching skull necklace she wants to buy but gets nervous when asked who the other half is for. Outside of the booth Monte and Ellis run into Bee and Demetrius. They learn that Bee, Demetrius, and Anzu live together in the [[House of Arcavios|House of Arcavios]]. The HoA is on their way to the maze and Ellis wants to join but they realize that the maze groups are limited to 4 people and a minimum of 3. They all go to the maze.
 
 ## During the wait... ... ...
 Yuki and [[Othello]] are next to each other in line and talk a little but not much. Othello is also in the House of Arcavios.
@@ -69,8 +69,10 @@ The party finds a new restaurant that wasn’t set up on the first day and decid
 ## Grand Feast
 The school assembles in the grand hall to have the final feast, marking the end of the first week and the end of the festival. Yuki, too enamored in the food to notice the others wonder around. 
 
-Monte finds Demetrius with a group of people taking notes on his Draconic language, trying to decyoher and learn it. He joins them with his own notes in a collaboration. 
+Monte finds Demetrius with a group of people taking notes on his Draconic language, trying to decipher and learn it. He joins them with his own notes in a collaboration. 
 
 Yuki is approached by Riggs! She quickly gives her a small pouch saying “I thought you might like this!” And runs off. Inside the pouch is a fine powder with a gemstone and a small note reading “You only need a pinch. -Riggs” Yuki removes the gemstone for a closer examination, this immediately changes the color of the powder from black to white. Reading the back of the note “P.S. Don’t take out the gem or else it’ll activate it!” Yuki quickly puts the gemstone back, deactivating the powder once more. 
 
 Ellis, not enjoying the overwhelming noise and people, decides to wonder. On her way out he runs into Anzu, [[Sam]], and Lily. Lily is a friend of Anzu and Sam and they were planning on going back to Arcavios. Ellis joins them and the session ends there. 
+
+On their way back Anzu and Ellis discover a secret garden where they will start to spend time in.
