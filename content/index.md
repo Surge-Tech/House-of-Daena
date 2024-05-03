@@ -3,7 +3,7 @@ title: House of Daena
 draft: false
 ---
 
-## Welcome to daenadnd.com
+## Welcome to houseofdaena.com
 
 Your hub for campaign notes from the DM of the House of Daena campaign. Updated weekly after each session, this is your go-to resource for all things related to our ongoing adventures.
 

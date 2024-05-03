@@ -37,3 +37,24 @@ For the first day the House of Daena group have planned a party/get together wit
 Ellis sleeps with Anzu and Monte sleeps on the couch in the common room.
 
 ## merry morning...
+Ellis, being able to handle their alcohol wakes up first to an empty bed. Curious they head downstairs to and empty house and a half awake Monte on the couch. Looking out the windows they can see it is dark outside, opening the door they see that the house they are in has been transported to some type of void or other realm. 
+
+## On the other side
+Ellis returns to Anzu's room and uses their magic necklace to communicate with Anzu. 
+"Where are you?" "What do you mean? Where are you? You're the one that left."
+Ellis has a sinking feeling "Move over to your mirror." As the two walk into frame of the mirror they can see the other on the other side. 
+
+Trying to investigate the strange house Monte investigates Jena's room. Walking in he finds a room that is basically a small library that holds most of Jena's books. Next to her bed is a small side table with an open book and lit candle. Monte puts out the candle. It relights. A page flips. Put it out, relight. Monte searches for a scratch piece of paper and find that he and Jena can communicate through it. He is in different House of Arcavios.
+
+ As Ellis and Monte try to make sense of the situation, they can hear the sound of foot steps coming from the ceiling. Something is on the roof. The foot steps stomp over to the chimney, then loud crashes. Rubble and debris fall through the chimney dust and soot follow. The slamming stops, a red box falls down and lands in the ashes. The box is red with green ribbon, it's wrapped like a gift. 
+
+Ellis and Monte bring it back to the mirror to show the members of Arcavios who have now gathered around the mirror in Anzu's room. Ellis and Anzu are the only ones able to speak back and forth, sound does not travel through mirrors. 
+
+## What's in the box?
+As everyone is discussing ideas and theories, Monte has the urge to unwrap the box in view of everyone. The removed wrapping paper reveals a chest. Monte is searching his brain for any idea of what this might be, Jena reaches down and quickly writes on a piece of paper. She pushes forward through the rest of the group to push the paper onto the mirror so that only Ellis and Monte can read the words "library chest?"
+
+Monte moves the chest out of sight of the mirror, Ellis and opens the chest and inside is a very old and think leather bound book that is open with a quill writing inside of it. Reading what the quill is writing reveals that it is narrating someone's actions. The most recent pages are very simple and do not immediately reveal who it is narrating. 
+
+"He sits down"
+"He picks up a pencil"
+"He "
