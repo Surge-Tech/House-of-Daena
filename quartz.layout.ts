@@ -8,7 +8,6 @@ export const sharedPageComponents: SharedLayout = {
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Surge-Tech/House-of-Daena", // My own GitHub
-      "Discord Community": "https://discord.gg/TXBA8SQnUw",  //HoD Server
     },
   }),
 }
