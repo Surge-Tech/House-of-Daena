@@ -1,18 +1,10 @@
-# Quartz v4
+# The House of Daena D&D Campagin
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> “The unfortunate fact of life is, dying for what you believe in, doesn't make it true.”
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+The House of Daena is a Dungeons and Dragons campaign set in the homebrew world of Usirion.
+This respository is a collection of notes hosted online using [Quartz](https://quartz.jzhao.xyz) and GitHub pages.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+All notes are in the [content](https://github.com/Surge-Tech/House-of-Daena/tree/v4/content) folder but to see the them in their full glory visit the website at houseofdaena.com.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+Notes are updated basically whenever I am free and motivated enough to write it all out.
